@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+Ik ben Erwin Scholts, 21 jaar oud en momenteel een vierdejaars bedrijfskunde student aan de Christelijke Hogeschool in Ede. Door mijn werkervaring heb ik geleerd hoe processen in bedrijven in elkaar steken, waardoor ik werkzaamheden met precisie en hoge snelheid kan uitvoeren.
+
+
+
 <!--
 **Cest0g/Cest0g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
